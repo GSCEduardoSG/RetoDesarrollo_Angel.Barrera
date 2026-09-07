@@ -1,0 +1,8 @@
+C:\Users\Enkontrol\Downloads\crm_net8\obj\Debug\net8.0\crm_net8.csproj.AssemblyReference.cache
+C:\Users\Enkontrol\Downloads\crm_net8\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Enkontrol\Downloads\crm_net8\obj\Debug\net8.0\crm_net8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enkontrol\Downloads\crm_net8\obj\Debug\net8.0\crm_net8.AssemblyInfoInputs.cache
+C:\Users\Enkontrol\Downloads\crm_net8\obj\Debug\net8.0\crm_net8.AssemblyInfo.cs
+C:\Users\Enkontrol\Downloads\crm_net8\obj\Debug\net8.0\crm_net8.csproj.CoreCompileInputs.cache
+C:\Users\Enkontrol\Downloads\crm_net8\obj\Debug\net8.0\crm_net8.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Enkontrol\Downloads\crm_net8\obj\Debug\net8.0\crm_net8.MvcApplicationPartsAssemblyInfo.cache
